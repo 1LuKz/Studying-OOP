@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meu Pc\\Programa\u00E7\u00E3o\\Salario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86AD1BDD-1F1D-4359-B7FA-CDD3C9D11A62}|Salario\\Salario.csproj|d:\\meu pc\\programa\u00E7\u00E3o\\salario\\salario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AD1BDD-1F1D-4359-B7FA-CDD3C9D11A62}|Salario\\Salario.csproj|solutionrelative:salario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AD1BDD-1F1D-4359-B7FA-CDD3C9D11A62}|Salario\\Salario.csproj|d:\\meu pc\\programa\u00E7\u00E3o\\salario\\salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AD1BDD-1F1D-4359-B7FA-CDD3C9D11A62}|Salario\\Salario.csproj|solutionrelative:salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Programa\u00E7\u00E3o\\Salario\\Salario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Salario\\Funcionario.cs",
+              "ToolTip": "D:\\Meu Pc\\Programa\u00E7\u00E3o\\Salario\\Salario\\Funcionario.cs",
+              "RelativeToolTip": "Salario\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:41:33.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Programa\u00E7\u00E3o\\Salario\\Salario\\Program.cs",
+              "RelativeDocumentMoniker": "Salario\\Program.cs",
+              "ToolTip": "D:\\Meu Pc\\Programa\u00E7\u00E3o\\Salario\\Salario\\Program.cs",
+              "RelativeToolTip": "Salario\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:39:48.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

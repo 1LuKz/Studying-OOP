@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ExercicioLista\\ExercicioLista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D16D76-54EA-47FC-87B3-72D87730C2C8}|ExercicioLista\\ExercicioLista.csproj|d:\\meu pc\\estudos\\programacao\\poo\\exerciciolista\\exerciciolista\\exerciciolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D16D76-54EA-47FC-87B3-72D87730C2C8}|ExercicioLista\\ExercicioLista.csproj|solutionrelative:exerciciolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D16D76-54EA-47FC-87B3-72D87730C2C8}|ExercicioLista\\ExercicioLista.csproj|d:\\meu pc\\estudos\\programacao\\poo\\exerciciolista\\exerciciolista\\exerciciolista\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D16D76-54EA-47FC-87B3-72D87730C2C8}|ExercicioLista\\ExercicioLista.csproj|solutionrelative:exerciciolista\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ExercicioLista\\ExercicioLista\\ExercicioLista\\Employees.cs",
+              "RelativeDocumentMoniker": "ExercicioLista\\Employees.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ExercicioLista\\ExercicioLista\\ExercicioLista\\Employees.cs",
+              "RelativeToolTip": "ExercicioLista\\Employees.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:15:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ExercicioLista\\ExercicioLista\\ExercicioLista\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioLista\\Program.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ExercicioLista\\ExercicioLista\\ExercicioLista\\Program.cs",
+              "RelativeToolTip": "ExercicioLista\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:10:00.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

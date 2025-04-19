@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\bin\Debug\net8.0\Store.exe
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\bin\Debug\net8.0\Store.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\bin\Debug\net8.0\Store.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\bin\Debug\net8.0\Store.dll
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\bin\Debug\net8.0\Store.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.dll
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\refint\Store.dll
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\Store\Store\Store\obj\Debug\net8.0\ref\Store.dll

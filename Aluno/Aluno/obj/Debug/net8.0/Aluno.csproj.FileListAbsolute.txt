@@ -1,0 +1,14 @@
+D:\Meu Pc\Programação\Aluno\Aluno\bin\Debug\net8.0\Aluno.exe
+D:\Meu Pc\Programação\Aluno\Aluno\bin\Debug\net8.0\Aluno.deps.json
+D:\Meu Pc\Programação\Aluno\Aluno\bin\Debug\net8.0\Aluno.runtimeconfig.json
+D:\Meu Pc\Programação\Aluno\Aluno\bin\Debug\net8.0\Aluno.dll
+D:\Meu Pc\Programação\Aluno\Aluno\bin\Debug\net8.0\Aluno.pdb
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.AssemblyInfoInputs.cache
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.AssemblyInfo.cs
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.dll
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\refint\Aluno.dll
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.pdb
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\Aluno.genruntimeconfig.cache
+D:\Meu Pc\Programação\Aluno\Aluno\obj\Debug\net8.0\ref\Aluno.dll

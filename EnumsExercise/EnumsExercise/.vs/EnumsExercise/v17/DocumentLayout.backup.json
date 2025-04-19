@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|d:\\meu pc\\estudos\\programacao\\poo\\enumsexercise\\enumsexercise\\enumsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|solutionrelative:enumsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|d:\\meu pc\\estudos\\programacao\\poo\\enumsexercise\\enumsexercise\\enumsexercise\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|solutionrelative:enumsexercise\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|d:\\meu pc\\estudos\\programacao\\poo\\enumsexercise\\enumsexercise\\enumsexercise\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|solutionrelative:enumsexercise\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|d:\\meu pc\\estudos\\programacao\\poo\\enumsexercise\\enumsexercise\\enumsexercise\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|solutionrelative:enumsexercise\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|d:\\meu pc\\estudos\\programacao\\poo\\enumsexercise\\enumsexercise\\enumsexercise\\entities\\enums\\levelworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE7CCB4-31D9-4589-A673-E3E13795F7DA}|EnumsExercise\\EnumsExercise.csproj|solutionrelative:enumsexercise\\entities\\enums\\levelworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EnumsExercise\\Entities\\Department.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Department.cs",
+              "RelativeToolTip": "EnumsExercise\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:34:23.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "EnumsExercise\\Entities\\HourContract.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\HourContract.cs",
+              "RelativeToolTip": "EnumsExercise\\Entities\\HourContract.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:34:15.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelWorker.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Enums\\LevelWorker.cs",
+              "RelativeDocumentMoniker": "EnumsExercise\\Entities\\Enums\\LevelWorker.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Enums\\LevelWorker.cs",
+              "RelativeToolTip": "EnumsExercise\\Entities\\Enums\\LevelWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:34:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "EnumsExercise\\Entities\\Worker.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Entities\\Worker.cs",
+              "RelativeToolTip": "EnumsExercise\\Entities\\Worker.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:32:49.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Program.cs",
+              "RelativeDocumentMoniker": "EnumsExercise\\Program.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\EnumsExercise\\EnumsExercise\\EnumsExercise\\Program.cs",
+              "RelativeToolTip": "EnumsExercise\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:31:30.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

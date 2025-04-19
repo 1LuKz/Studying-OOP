@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\bin\Debug\net8.0\MatrizSegundaParte.exe
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\bin\Debug\net8.0\MatrizSegundaParte.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\bin\Debug\net8.0\MatrizSegundaParte.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\bin\Debug\net8.0\MatrizSegundaParte.dll
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\bin\Debug\net8.0\MatrizSegundaParte.pdb
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.dll
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\refint\MatrizSegundaParte.dll
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.pdb
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\MatrizSegundaParte.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\MatrizSegundaParte\MatrizSegundaParte\MatrizSegundaParte\obj\Debug\net8.0\ref\MatrizSegundaParte.dll

@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.exe
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.dll
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\bin\Debug\net8.0\ExercicioLista.pdb
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.dll
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\refint\ExercicioLista.dll
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.pdb
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ExercicioLista.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\ExercicioLista\ExercicioLista\ExercicioLista\obj\Debug\net8.0\ref\ExercicioLista.dll

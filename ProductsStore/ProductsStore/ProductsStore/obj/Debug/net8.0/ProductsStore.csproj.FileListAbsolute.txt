@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\bin\Debug\net8.0\ProductsStore.exe
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\bin\Debug\net8.0\ProductsStore.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\bin\Debug\net8.0\ProductsStore.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\bin\Debug\net8.0\ProductsStore.dll
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\bin\Debug\net8.0\ProductsStore.pdb
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.dll
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\refint\ProductsStore.dll
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.pdb
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ProductsStore.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\ProductsStore\ProductsStore\ProductsStore\obj\Debug\net8.0\ref\ProductsStore.dll

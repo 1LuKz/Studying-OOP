@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\bin\Debug\net8.0\Enums.exe
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\bin\Debug\net8.0\Enums.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\bin\Debug\net8.0\Enums.dll
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\bin\Debug\net8.0\Enums.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.dll
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\refint\Enums.dll
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\Enums\Enums\Enums\obj\Debug\net8.0\ref\Enums.dll

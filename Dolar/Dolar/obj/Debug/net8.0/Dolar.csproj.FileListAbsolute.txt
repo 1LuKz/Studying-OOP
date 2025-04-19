@@ -1,0 +1,14 @@
+D:\Meu Pc\Programação\Dolar\Dolar\bin\Debug\net8.0\Dolar.exe
+D:\Meu Pc\Programação\Dolar\Dolar\bin\Debug\net8.0\Dolar.deps.json
+D:\Meu Pc\Programação\Dolar\Dolar\bin\Debug\net8.0\Dolar.runtimeconfig.json
+D:\Meu Pc\Programação\Dolar\Dolar\bin\Debug\net8.0\Dolar.dll
+D:\Meu Pc\Programação\Dolar\Dolar\bin\Debug\net8.0\Dolar.pdb
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.AssemblyInfoInputs.cache
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.AssemblyInfo.cs
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.dll
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\refint\Dolar.dll
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.pdb
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\Dolar.genruntimeconfig.cache
+D:\Meu Pc\Programação\Dolar\Dolar\obj\Debug\net8.0\ref\Dolar.dll

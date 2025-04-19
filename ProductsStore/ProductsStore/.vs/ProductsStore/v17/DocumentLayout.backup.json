@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|d:\\meu pc\\estudos\\programacao\\poo\\productsstore\\productsstore\\productsstore\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|solutionrelative:productsstore\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|d:\\meu pc\\estudos\\programacao\\poo\\productsstore\\productsstore\\productsstore\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|solutionrelative:productsstore\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|d:\\meu pc\\estudos\\programacao\\poo\\productsstore\\productsstore\\productsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|solutionrelative:productsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|d:\\meu pc\\estudos\\programacao\\poo\\productsstore\\productsstore\\productsstore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9441265B-DCAC-491F-8649-D211B645AE73}|ProductsStore\\ProductsStore.csproj|solutionrelative:productsstore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsStore\\Entities\\UsedProduct.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ProductsStore\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:08:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ProductsStore\\Entities\\ImportedProduct.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\ImportedProduct.cs*",
+              "RelativeToolTip": "ProductsStore\\Entities\\ImportedProduct.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:08:35.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsStore\\Entities\\Product.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductsStore\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:08:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsStore\\Program.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\ProductsStore\\ProductsStore\\ProductsStore\\Program.cs",
+              "RelativeToolTip": "ProductsStore\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:07:27.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

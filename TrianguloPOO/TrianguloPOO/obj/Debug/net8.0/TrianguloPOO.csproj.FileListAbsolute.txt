@@ -1,0 +1,14 @@
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\bin\Debug\net8.0\TrianguloPOO.exe
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\bin\Debug\net8.0\TrianguloPOO.deps.json
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\bin\Debug\net8.0\TrianguloPOO.runtimeconfig.json
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\bin\Debug\net8.0\TrianguloPOO.dll
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\bin\Debug\net8.0\TrianguloPOO.pdb
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.AssemblyInfoInputs.cache
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.AssemblyInfo.cs
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.dll
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\refint\TrianguloPOO.dll
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.pdb
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\TrianguloPOO.genruntimeconfig.cache
+D:\Meu Pc\Programação\TrianguloPOO\TrianguloPOO\obj\Debug\net8.0\ref\TrianguloPOO.dll

@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\bin\Debug\net8.0\EnumsExercise.exe
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\bin\Debug\net8.0\EnumsExercise.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\bin\Debug\net8.0\EnumsExercise.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\bin\Debug\net8.0\EnumsExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\bin\Debug\net8.0\EnumsExercise.pdb
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\refint\EnumsExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.pdb
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\EnumsExercise.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\EnumsExercise\EnumsExercise\EnumsExercise\obj\Debug\net8.0\ref\EnumsExercise.dll

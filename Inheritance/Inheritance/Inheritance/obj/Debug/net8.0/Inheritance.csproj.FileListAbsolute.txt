@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\Inheritance\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

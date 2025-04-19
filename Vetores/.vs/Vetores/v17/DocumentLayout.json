@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6DE4D-E5FA-470B-BFA7-5CD7A17EBCCB}|Vetores\\Vetores.csproj|d:\\meu pc\\estudos\\programacao\\poo\\vetores\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6DE4D-E5FA-470B-BFA7-5CD7A17EBCCB}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6DE4D-E5FA-470B-BFA7-5CD7A17EBCCB}|Vetores\\Vetores.csproj|d:\\meu pc\\estudos\\programacao\\poo\\vetores\\vetores\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6DE4D-E5FA-470B-BFA7-5CD7A17EBCCB}|Vetores\\Vetores.csproj|solutionrelative:vetores\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\Vetores\\Vetores\\Estudante.cs",
+              "RelativeDocumentMoniker": "Vetores\\Estudante.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\Vetores\\Vetores\\Estudante.cs",
+              "RelativeToolTip": "Vetores\\Estudante.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:01:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\Vetores\\Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "Vetores\\Program.cs",
+              "ToolTip": "D:\\Meu Pc\\Estudos\\Programacao\\POO\\Vetores\\Vetores\\Program.cs",
+              "RelativeToolTip": "Vetores\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:30:11.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\bin\Debug\net8.0\Lista.exe
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\bin\Debug\net8.0\Lista.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\bin\Debug\net8.0\Lista.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\bin\Debug\net8.0\Lista.dll
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\bin\Debug\net8.0\Lista.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.dll
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\refint\Lista.dll
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.pdb
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\Lista.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\Lista\Lista\obj\Debug\net8.0\ref\Lista.dll

@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

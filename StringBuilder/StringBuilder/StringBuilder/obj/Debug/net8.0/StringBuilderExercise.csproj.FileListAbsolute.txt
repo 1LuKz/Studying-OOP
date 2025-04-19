@@ -1,0 +1,15 @@
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderExercise.exe
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderExercise.deps.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderExercise.runtimeconfig.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderExercise.pdb
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.AssemblyInfoInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.AssemblyInfo.cs
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.csproj.CoreCompileInputs.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.sourcelink.json
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuilderExercise.dll
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.pdb
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderExercise.genruntimeconfig.cache
+D:\Meu Pc\Estudos\Programacao\POO\StringBuilder\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuilderExercise.dll
